@@ -1,4 +1,4 @@
-import { inject, ref, watch } from 'vue';
+import { inject, ref } from 'vue';
 import { connectSearchBox } from 'instantsearch.js/es/connectors';
 
 const noop = () => {};
